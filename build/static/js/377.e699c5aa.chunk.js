@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_project=self.webpackChunkreact_project||[]).push([[377],{5377:function(e,r,c){c.r(r),c.d(r,{default:function(){return t}});c(2791);var n=c(184),t=function(){return(0,n.jsx)(n.Fragment,{children:(0,n.jsx)("div",{className:"common-top",children:(0,n.jsx)("h1",{children:"This is from Dashboard"})})})}}}]);
+//# sourceMappingURL=377.e699c5aa.chunk.js.map
