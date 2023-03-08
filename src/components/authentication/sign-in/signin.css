@@ -1,0 +1,58 @@
+/* .login,
+.image {
+    min-height: 100vh;
+    max-height: 100vh;
+} */
+
+.bg-image {
+  background-image: url("https://therichpost.com/wp-content/uploads/2021/02/login-split.jpg");
+  background-position: center center;
+}
+
+.accounticon {
+  font-size: "100px";
+}
+
+.social-icons span {
+  font-size: "100px";
+}
+
+.main-div {
+  width: 100%;
+  background-image: url("../../../assets/images/time-management-back8.png");
+  background-color: #cccccc; /* Used if the image is unavailable */
+  height: 100vh; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+  filter: brightness(40%);
+}
+
+.content {
+  position: absolute;
+  top: 48%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  min-width: 500px;
+}
+
+.time-gif {
+  width: 200px !important;
+}
+
+/* 
+@media screen and (max-width: 992px) {
+    .accounticon {
+        text-align: 'center';
+        font-size: "100px";
+        margin-left: "125px"
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .accounticon {
+        text-align: 'center';
+        font-size: "100px";
+        margin-left: "1600px"
+    }
+} */

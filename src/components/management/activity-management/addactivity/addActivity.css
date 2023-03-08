@@ -1,0 +1,46 @@
+.addActivity{
+   position: relative;
+   left: 45%;
+   
+
+
+
+   
+}
+hr{
+   display: flex;
+   margin-left:20%;
+   justify-content: center;
+   text-align: center;
+   width: 60%;
+   
+}
+.lbl1{
+   font-size: larger;
+   margin-top: 4%;
+}
+.HeadLine{
+   text-align: center;
+   background:#2b5876;
+   
+
+}
+.billable{
+  position: relative;
+ 
+}
+.effort{
+   position: relative;
+   top: 8px;
+}
+
+#outlined-basic::-webkit-outer-spin-button,
+#outlined-basic::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+#outlined-basic[type=number] {
+  -moz-appearance: textfield;
+}

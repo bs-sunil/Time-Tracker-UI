@@ -1,0 +1,15 @@
+.filter{
+    width: 40%;
+}
+input:focus{
+    outline: none;
+
+}
+input{
+    border: 0;
+    height: 15%;
+    background-color: whitesmoke;
+    border-bottom: 1px solid black;
+   
+
+}
